@@ -1,0 +1,15 @@
+{
+  "name": "ez-proxy",
+  "version": "1.0.0",
+  "description": "A very simple configurable HTTP proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lucas Meulengracht Fredmark <lucas.m.fredmark@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "path-to-regexp": "^6.2.0"
+  }
+}

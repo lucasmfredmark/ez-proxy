@@ -1,0 +1,16 @@
+[
+    {
+        "path": "/github",
+        "target": "https://api.github.com",
+        "headers": {
+            "Authorization": "Basic dXNlcm5hbWU6cGFzc3dvcmQ="
+        }
+    },
+    {
+        "path": "/unsplash",
+        "target": "https://api.unsplash.com",
+        "headers": {
+            "Authorization": "Client-ID A8Ap4Yv_Cyl1ZyF6BZhKv-Pw6JJsYUyhg4YmsBolYjA"
+        }
+    }
+]
